@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20508\\Desktop\\C\u002B\u002B\\CPP\\exercise\\debug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4504C76-243D-47CE-B70A-A4B4515B0169}|debug\\debug.vcxproj|C:\\Users\\20508\\Desktop\\C\u002B\u002B\\CPP\\exercise\\debug\\debug\\debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4504C76-243D-47CE-B70A-A4B4515B0169}|debug\\debug.vcxproj|solutionrelative:debug\\debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "debug.cpp",
+              "DocumentMoniker": "C:\\Users\\20508\\Desktop\\C\u002B\u002B\\CPP\\exercise\\debug\\debug\\debug.cpp",
+              "RelativeDocumentMoniker": "debug\\debug.cpp",
+              "ToolTip": "C:\\Users\\20508\\Desktop\\C\u002B\u002B\\CPP\\exercise\\debug\\debug\\debug.cpp",
+              "RelativeToolTip": "debug\\debug.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T05:07:30.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1428,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
